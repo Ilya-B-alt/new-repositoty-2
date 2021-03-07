@@ -6,4 +6,5 @@ Hello
 Bye
 Новый куплет
 Еше один куплет
+try non-fast forward merge
 
